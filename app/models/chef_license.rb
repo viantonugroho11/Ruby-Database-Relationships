@@ -1,0 +1,2 @@
+class ChefLicense < ApplicationRecord
+end
